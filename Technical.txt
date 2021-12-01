@@ -1,0 +1,5 @@
+Technical specification for my php mysql project.
+front end will be html css javascript.
+backend will be php mysqli
+There will be one login page.
+there will be one registration page.
